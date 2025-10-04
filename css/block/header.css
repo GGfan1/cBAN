@@ -9,7 +9,7 @@
     justify-content: space-between
 }
 
-.logo {}
+/* .logo {} */
 
 .menu-list {
 
@@ -22,7 +22,7 @@
     background: rgba(206, 206, 206, 0.43);
 }
 
-.menu-item {}
+/* .menu-item {} */
 
 .active {
     display: inline-block;

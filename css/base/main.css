@@ -1,4 +1,5 @@
 @import url(../block/header.css);
+@import url(../block/mainBlock.css);
 
 body {
     font-family: "Jaro", sans-serif;
