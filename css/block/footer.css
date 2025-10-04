@@ -1,0 +1,20 @@
+.footer {
+    display: flex;
+    align-items: center;
+
+    color: #fff;
+
+    height: 185px;
+    background: #000;
+}
+.ddd {
+    position: absolute;
+    left: 50%;
+}
+
+
+
+.svg-link {
+    float: right;
+}
+

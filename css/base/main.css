@@ -1,5 +1,6 @@
 @import url(../block/header.css);
 @import url(../block/mainBlock.css);
+@import url(../block/footer.css);
 
 body {
     font-family: "Jaro", sans-serif;
