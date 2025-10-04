@@ -1,0 +1,68 @@
+.header {
+    padding-top: 50px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between
+}
+
+.logo {}
+
+.menu-list {
+
+    display: flex;
+    gap: 75px;
+
+    padding: 30px 60px;
+
+    border-radius: 50px;
+    background: rgba(206, 206, 206, 0.43);
+}
+
+.menu-item {}
+
+.active {
+    display: inline-block;
+
+}
+
+.active::after {
+    content: "";
+    display: block;
+
+    width: px;
+    height: 3px;
+
+    border-radius: 50px;
+    background: rgba(92, 90, 90, 0.73);
+}
+
+.cban {
+    padding: 180px 0;
+}
+
+.back-cban {
+    height: 571px;
+
+    background-image: url(/image/cBAN.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+}
+
+.chikiban {
+    padding: 465px 0 0 250px;
+}
+
+.chiki {
+
+    font-size: 96px;
+
+    padding: 33px 100px;
+
+    border-radius: 50px;
+    background: rgba(206, 206, 206, 0.43);
+}
