@@ -9,7 +9,13 @@
     justify-content: space-between
 }
 
-/* .logo {} */
+.logo {
+    padding-left: 765px;
+}
+
+.logo-img {
+    width: 100px;
+}
 
 .menu-list {
 
