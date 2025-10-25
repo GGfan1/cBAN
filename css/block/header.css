@@ -26,6 +26,7 @@
 
     padding: 30px 60px;
 
+    backdrop-filter: blur(10px);
     border-radius: 50px;
     background: rgba(206, 206, 206, 0.43);
 }
@@ -67,10 +68,14 @@
 
 .chiki {
 
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
     font-size: 96px;
+    font-style: normal;
 
     padding: 33px 100px;
 
+    backdrop-filter: blur(10px);
     border-radius: 50px;
     background: rgba(206, 206, 206, 0.43);
 }
